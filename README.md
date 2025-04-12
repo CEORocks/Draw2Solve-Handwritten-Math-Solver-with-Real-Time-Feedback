@@ -22,7 +22,7 @@ Whether you're jotting down simple arithmetic or sketching more complex equation
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Draw2Solve.git
+git clone https://github.com/CEORocks/Draw2Solve.git
 cd Draw2Solve
 ```
 
